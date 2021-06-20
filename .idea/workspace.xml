@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb672beb-c6c7-48cb-9916-ca0de80dbf8a" name="Default Changelist" comment="" />
+    <list default="true" id="fb672beb-c6c7-48cb-9916-ca0de80dbf8a" name="Default Changelist" comment="修改的READE 内容，增加部分说明">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,6 +138,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改的READE 内容，增加部分说明" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改的READE 内容，增加部分说明" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -168,6 +174,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1624180158617" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1624180174599">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1624180174599" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GoLearningCode$TestMonster_Store_in_GoLearningCode_Code.out" NAME="TestMonster_Store in GoLearningCode/Code Coverage Results" MODIFIED="1624177935416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
