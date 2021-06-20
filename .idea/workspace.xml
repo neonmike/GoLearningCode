@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb672beb-c6c7-48cb-9916-ca0de80dbf8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/GoLearningCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Closure.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Test_error.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code/Test_pirntType.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mashal/Test_monster.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mashal/Test_monster_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\go1.16.5.windows-amd64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1uCkZRznJJVn8JMPX1WCRL07soM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\易水寒\Desktop\GoLearningCode\Mashal" />
+      <recent name="C:\Users\易水寒\Desktop\awesomeProject\Code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestMonster_ReStore in GoLearningCode/Mashal">
+    <configuration name="TestMonster_ReStore in GoLearningCode/Mashal" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="GoLearningCode" />
+      <working_directory value="$PROJECT_DIR$/Mashal" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="GoLearningCode/Mashal" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestMonster_ReStore\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMonster_Store in GoLearningCode/Code" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="GoLearningCode" />
+      <working_directory value="$PROJECT_DIR$/Code" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="GoLearningCode/Code" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestMonster_Store\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMonster_Store in GoLearningCode/Mashal" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="GoLearningCode" />
+      <working_directory value="$PROJECT_DIR$/Mashal" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="GoLearningCode/Mashal" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestMonster_Store\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_monster_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="GoLearningCode" />
+      <working_directory value="$PROJECT_DIR$/Code" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="GoLearningCode" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Code/Test_monster_test.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test GoLearningCode" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="GoLearningCode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="GoLearningCode" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestMonster_ReStore in GoLearningCode/Mashal" />
+        <item itemvalue="Go Test.TestMonster_Store in GoLearningCode/Mashal" />
+        <item itemvalue="Go Test.TestMonster_Store in GoLearningCode/Code" />
+        <item itemvalue="Go Test.Test_monster_test.go" />
+        <item itemvalue="Go Test.go test GoLearningCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="348" key="#Notifications" timestamp="1624177438221">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="691" y="348" key="#Notifications/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1624177438221" />
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624177826611">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1624177826610" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1624179802355">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1624179802355" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1624179802355">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1624179802355" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1624179802355">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1624179802355" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1624179802355">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1624179802355" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GoLearningCode$TestMonster_Store_in_GoLearningCode_Code.out" NAME="TestMonster_Store in GoLearningCode/Code Coverage Results" MODIFIED="1624177935416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/GoLearningCode$TestMonster_Store_in_GoLearningCode_Mashal.out" NAME="TestMonster_Store in GoLearningCode/Mashal Coverage Results" MODIFIED="1624178012587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/GoLearningCode$Test_monster_test_go.out" NAME="Test_monster_test.go Coverage Results" MODIFIED="1624177873454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/GoLearningCode$TestMonster_ReStore_in_GoLearningCode_Mashal.out" NAME="TestMonster_ReStore in GoLearningCode/Mashal Coverage Results" MODIFIED="1624178202366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
